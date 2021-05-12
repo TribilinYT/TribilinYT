@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I am Swastik Baranwal from Delhi, India who is an Open Source and V Contributor, DevOps enthusiast, Ex Pokemon Gba Rom Hacker and Pixel Artist, loves Anime and Manga, always learning new things, ready for discussions and making new projects, write blogs on Dev.to etc.
+I am Cristhian Luna from Manta, Ecuador, who is in last year of college journey. Im trully interested on frontend web development, and modern web frameworks as Svelte, React, Next; etc.
 
 - 😄 Pronouns: He/him
+- PortFolio: https://react-portfolio-devcluna.herokuapp.com/
 
 ![Cristhian Luna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TribilinYT&show_icons=true&include_all_commits=true)
 
