@@ -37,6 +37,6 @@ I am Swastik Baranwal from Delhi, India who is an Open Source and V Contributor,
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="38">](https://github.com/TribilinYT) |[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="38">](https://twitter.com/DevCLuna) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="38">](https://stackoverflow.com/users/15340518/cristhian-a-luna) | [<img src="https://raw.githubusercontent.com/TribilinYT/TribilinYT/master/img/linkedin.png" alt="linkedin logo" width="38">](https://www.linkedin.com/in/cluna1997/)|
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="42">](https://github.com/TribilinYT) |[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="42">](https://twitter.com/DevCLuna) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="38">](https://stackoverflow.com/users/15340518/cristhian-a-luna) | [<img src="https://raw.githubusercontent.com/TribilinYT/TribilinYT/master/img/linkedin.png" alt="linkedin logo" width="38">](https://www.linkedin.com/in/cluna1997/)|
 |---|---|---|---|
 ---
