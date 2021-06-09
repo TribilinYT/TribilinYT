@@ -2,8 +2,7 @@
 
 I am Cristhian Luna from Manta, Ecuador, who is in last year of college journey. Im trully interested on frontend web development, and modern web frameworks as Svelte, React, Next; etc.
 
-- 😄 Pronouns: He/him
-- PortFolio: https://react-portfolio-devcluna.herokuapp.com/
+- PortFolio: https://devCluna.com/
 
 ![Cristhian Luna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TribilinYT&show_icons=true&include_all_commits=true)
 
