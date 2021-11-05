@@ -4,7 +4,7 @@ I am Cristhian Luna from Manta, Ecuador, who is in last year of college journey.
 
 - PortFolio: https://devCluna.com/
 
-![Cristhian Luna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TribilinYT&show_icons=true&include_all_commits=true)
+![Cristhian Luna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devCluna&show_icons=true&include_all_commits=true)
 
 
 ### Programming Languages 🌐
